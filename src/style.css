@@ -1,0 +1,19 @@
+.app-jsx {
+    max-width:100vw;
+    overflow: hidden;
+}
+.title {
+    display: block;
+    position: relative;
+    margin: 10px auto;
+    text-align: center;
+}
+.red {
+    color: red;
+}
+.imgsrc {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
